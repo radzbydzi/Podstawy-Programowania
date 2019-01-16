@@ -15,7 +15,7 @@ Zadanie3::~Zadanie3()
 
 void Zadanie3::wprowadzTab(char tab[])
 {
-
+    int il_zn=0;
 }
 
 void Zadanie3::run()
