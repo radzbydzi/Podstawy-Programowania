@@ -37,4 +37,14 @@ void Zadanie4::fkwadr(double a, double b, double c)
 
 void Zadanie4::run()
 {
+    cout<<"Zadanie4"<<endl<<endl;
+    double a,b,c;
+    cout<<"Wprwoad a"<<endl;
+    cin>>a;
+    cout<<"Wprwoad b"<<endl;
+    cin>>b;
+    cout<<"Wprwoad c"<<endl;
+    cin>>c;
+    fkwadr(a,b,c);
+    cout<<"-----------"<<endl<<endl;
 }
