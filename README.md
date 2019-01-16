@@ -8,3 +8,4 @@ Program, który posiada kilka przydatnych przykładów ćwiczeniowych
 	- Program obliczający funkcję kwadratową z podanych współczninników.
 	
 Nadal trawją prace nad rozszerzaniem projektu!
+Cośtam cośtam
