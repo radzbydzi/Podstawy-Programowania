@@ -18,6 +18,10 @@ void Zadanie1::podajLiczbe(int liczba, int epsilon)
     int randliczba = rand();
     int bezwzgl = abs(randliczba - liczba);//wartoœæ bezwzglêdna z róznicy wylosowanej i podanej
     cout<<"Wylosowana liczba:"<< randliczba <<endl;
+    if(bezwzgl<epsilon)
+    {
+        cout<<"trafiłeś, to jest ta liczba w granicach błędu"<<endl;
+    }
 }
 void Zadanie1::run()
 {
