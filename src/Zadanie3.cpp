@@ -29,6 +29,7 @@ void Zadanie3::wprowadzTab(char tab[])
         }
 
     }
+    cout<<endl<<"Ciag ma "<<il_zn<<" znakow"<<endl;
 }
 
 void Zadanie3::run()
