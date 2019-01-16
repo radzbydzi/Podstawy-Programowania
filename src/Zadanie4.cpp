@@ -29,7 +29,11 @@ void Zadanie4::fkwadr(double a, double b, double c)
     {
         double x=(-b)/2*a;
         cout<<"x="<<x<<endl;
+    }else
+    {
+        cout<<"Delta jest ujemna. Równanie nie ma rozwi¹zañ w dziedzinie rzeczywistej"<<endl;
     }
+}
 
 void Zadanie4::run()
 {
