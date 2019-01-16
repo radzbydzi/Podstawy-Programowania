@@ -2,7 +2,8 @@
 #include "headers.h"
 
 using namespace std;
-//Komentarz Radka
+//zmiana Weroniki
+
 int main()
 {
     std::setlocale(LC_ALL, "");
