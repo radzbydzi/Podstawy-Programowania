@@ -13,6 +13,7 @@ class Zadanie2 : public Zadanie
     protected:
 
     private:
+	void sprawdzZnak(char znak);
 };
 
 #endif // ZADANIE2_H
