@@ -21,6 +21,9 @@ void Zadanie1::podajLiczbe(int liczba, int epsilon)
     if(bezwzgl<epsilon)
     {
         cout<<"trafiłeś, to jest ta liczba w granicach błędu"<<endl;
+    }else if(randliczba<liczba)
+    {
+        cout<<"liczba za duża"<<endl;
     }
 }
 void Zadanie1::run()
