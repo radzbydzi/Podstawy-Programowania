@@ -2,7 +2,7 @@
 #include "headers.h"
 
 using namespace std;
-
+//Komentarz Radka
 int main()
 {
     std::setlocale(LC_ALL, "");
