@@ -32,6 +32,7 @@ void Zadanie1::podajLiczbe(int liczba, int epsilon)
 }
 void Zadanie1::run()
 {
+    //comment
     cout<<"Zadanie1"<<endl<<endl;
     int liczba, epsilon;
     cout<<"Podaj liczbę"<<endl;
