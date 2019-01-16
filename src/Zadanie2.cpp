@@ -40,4 +40,8 @@ void Zadanie2::run()
 {
 	cout<<"Zadanie2"<<endl<<endl;
     cout<<"Wprowad znak"<<endl;
+	char znak;
+    cin>>znak;
+    sprawdzZnak(znak);
+    cout<<"-----------"<<endl<<endl;
 }
