@@ -12,6 +12,9 @@ Zadanie1::~Zadanie1()
 {
     //dtor
 }
+void Zadanie1::podajLiczbe(int liczba, int epsilon)
+{
+}
 void Zadanie1::run()
 {
 }
