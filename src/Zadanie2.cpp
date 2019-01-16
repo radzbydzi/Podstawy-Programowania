@@ -38,4 +38,6 @@ else if(znak>=48 && znak<=57)
 }
 void Zadanie2::run()
 {
+	cout<<"Zadanie2"<<endl<<endl;
+    cout<<"Wprowad znak"<<endl;
 }
