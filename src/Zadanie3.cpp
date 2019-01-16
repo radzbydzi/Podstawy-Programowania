@@ -16,6 +16,10 @@ Zadanie3::~Zadanie3()
 void Zadanie3::wprowadzTab(char tab[])
 {
     int il_zn=0;
+    for(int i=0; i<21; i++)
+    {
+
+    }
 }
 
 void Zadanie3::run()
