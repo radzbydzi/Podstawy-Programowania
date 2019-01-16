@@ -12,6 +12,12 @@ Zadanie3::~Zadanie3()
 {
     //dtor
 }
+
+void Zadanie3::wprowadzTab(char tab[])
+{
+
+}
+
 void Zadanie3::run()
 {
 }
