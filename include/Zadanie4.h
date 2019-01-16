@@ -13,6 +13,7 @@ class Zadanie4 : public Zadanie
     protected:
 
     private:
+        void fkwadr(double a, double b, double c);
 };
 
 #endif // ZADANIE4_H
