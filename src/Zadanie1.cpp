@@ -14,6 +14,10 @@ Zadanie1::~Zadanie1()
 }
 void Zadanie1::podajLiczbe(int liczba, int epsilon)
 {
+    srand( time( NULL ) );
+    int randliczba = rand();
+    int bezwzgl = abs(randliczba - liczba);//wartoœæ bezwzglêdna z róznicy wylosowanej i podanej
+    cout<<"Wylosowana liczba:"<< randliczba <<endl;
 }
 void Zadanie1::run()
 {
