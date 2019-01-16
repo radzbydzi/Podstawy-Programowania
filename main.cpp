@@ -2,6 +2,7 @@
 #include "headers.h"
 
 using namespace std;
+//zmiana Weroniki
 
 int main()
 {
