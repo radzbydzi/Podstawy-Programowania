@@ -13,6 +13,7 @@ class Zadanie3 : public Zadanie
     protected:
 
     private:
+        void wprowadzTab(char tab[]);
 };
 
 #endif // ZADANIE3_H
