@@ -19,6 +19,15 @@ void Zadanie3::wprowadzTab(char tab[])
     for(int i=0; i<21; i++)
     {
         cout<<tab[i]<<endl;
+        if(i>0)
+        {
+            if(tab[i]==NULL)
+            {
+                il_zn = i;
+                break;
+            }
+        }
+
     }
 }
 
