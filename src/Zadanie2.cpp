@@ -12,6 +12,9 @@ Zadanie2::~Zadanie2()
 {
     //dtor
 }
+void Zadanie2::sprawdzZnak(char znak)
+{
+}
 void Zadanie2::run()
 {
 }
