@@ -19,6 +19,10 @@ void Zadanie2::sprawdzZnak(char znak)
     //0 - 48 9 - 57
     //cout<<(int)'9'<<endl;
     //kody ASCII
+
+	if(znak>=97 && znak<=122)
+    {
+        	cout<<"Wprowadzono maġṗ literê"<<endl;
 }
 void Zadanie2::run()
 {
