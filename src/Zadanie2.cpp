@@ -44,4 +44,5 @@ void Zadanie2::run()
     cin>>znak;
     sprawdzZnak(znak);
     cout<<"-----------"<<endl<<endl;
+//funkcja odpowiada za wyświetllanie
 }
