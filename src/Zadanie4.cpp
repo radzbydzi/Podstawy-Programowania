@@ -12,6 +12,11 @@ Zadanie4::~Zadanie4()
 {
     //dtor
 }
+
+void Zadanie4::fkwadr(double a, double b, double c)
+{
+}
+
 void Zadanie4::run()
 {
 }
