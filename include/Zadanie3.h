@@ -13,7 +13,7 @@ class Zadanie3 : public Zadanie
     protected:
 
     private:
-        void wprowadzTab(char tab[]);
+        void wprowadzTab(char tab[]); //kod jest w pliku zadanie3.cpp
 };
 
 #endif // ZADANIE3_H
