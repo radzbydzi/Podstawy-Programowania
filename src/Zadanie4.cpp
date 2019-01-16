@@ -25,6 +25,10 @@ void Zadanie4::fkwadr(double a, double b, double c)
         double x1=(-b+pDel)/2*a;
         double x2=(-b-pDel)/2*a;
         cout<<"x1="<<x1<<" i x2="<<x2<<endl;
+    }else if(delta==0)
+    {
+        double x=(-b)/2*a;
+        cout<<"x="<<x<<endl;
     }
 
 void Zadanie4::run()
