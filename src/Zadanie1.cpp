@@ -25,6 +25,10 @@ void Zadanie1::podajLiczbe(int liczba, int epsilon)
     {
         cout<<"liczba za duża"<<endl;
     }
+    else
+    {
+        cout<<"liczba za mała"<<endl;
+    }
 }
 void Zadanie1::run()
 {
