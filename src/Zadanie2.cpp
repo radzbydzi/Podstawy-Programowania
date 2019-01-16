@@ -27,6 +27,13 @@ else if(znak>=65 && znak<=90)
     {
         cout<<"Wprowadzono duṡṗ literê"<<endl;
     }
+else if(znak>=48 && znak<=57)
+    {
+        cout<<"Wprowadzono liczbê"<<endl;
+    }else
+    {
+        cout<<"Ÿadne z nich"<<endl;
+    }
 
 }
 void Zadanie2::run()
