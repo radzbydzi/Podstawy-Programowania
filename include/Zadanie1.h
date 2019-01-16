@@ -12,6 +12,7 @@ class Zadanie1 : public Zadanie
     protected:
 
     private:
+	void podajLiczbe(int liczba, int epsilon);
 };
 
 #endif // ZADANIE1_H
