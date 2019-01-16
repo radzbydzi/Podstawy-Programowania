@@ -19,7 +19,13 @@ void Zadanie4::fkwadr(double a, double b, double c)
     double delta = b*b - 4*a*c;
     cout<<"Równanie "<<a<<"*x^2"<<" + "<<b<<"*x "<<"+ "<<c<<endl;
     cout<<"Delta "<<delta<<endl;
-    if(delta>0){}
+    if(delta>0)
+    {
+        double pDel = sqrt(delta);
+        double x1=(-b+pDel)/2*a;
+        double x2=(-b-pDel)/2*a;
+        cout<<"x1="<<x1<<" i x2="<<x2<<endl;
+    }
 
 void Zadanie4::run()
 {
