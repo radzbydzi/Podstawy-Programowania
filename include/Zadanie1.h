@@ -14,5 +14,5 @@ class Zadanie1 : public Zadanie
     private:
 	void podajLiczbe(int liczba, int epsilon);
 };
-
+//komentarz
 #endif // ZADANIE1_H
