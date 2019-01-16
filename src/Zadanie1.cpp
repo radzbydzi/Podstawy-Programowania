@@ -32,4 +32,12 @@ void Zadanie1::podajLiczbe(int liczba, int epsilon)
 }
 void Zadanie1::run()
 {
+    cout<<"Zadanie1"<<endl<<endl;
+    int liczba, epsilon;
+    cout<<"Podaj liczbę"<<endl;
+    cin>>liczba;
+    cout<<"Podaj epsilon"<<endl;
+    cin>>epsilon;
+    podajLiczbe(liczba,epsilon);
+    cout<<"-----------"<<endl<<endl;
 }
