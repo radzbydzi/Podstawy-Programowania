@@ -39,6 +39,7 @@ else if(znak>=48 && znak<=57)
 void Zadanie2::run()
 {
 	cout<<"Zadanie2"<<endl<<endl;
+	pokazTresc();
     cout<<"Wprowad znak"<<endl;
 	char znak;
     cin>>znak;

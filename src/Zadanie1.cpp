@@ -34,6 +34,7 @@ void Zadanie1::run()
 {
     //comment
     cout<<"Zadanie1"<<endl<<endl;
+    pokazTresc();
     int liczba, epsilon;
     cout<<"Podaj liczbę"<<endl;
     cin>>liczba;

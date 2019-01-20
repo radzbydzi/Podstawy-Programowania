@@ -2,5 +2,22 @@
 #include "Zadanie2.h"
 #include "Zadanie3.h"
 #include "Zadanie4.h"
+#include "Zadanie5.h"
+#include "Zadanie6.h"
+#include "Zadanie7.h"
+#include "Zadanie8.h"
+#include "Zadanie9.h"
+#include "Zadanie10.h"
+#include "Zadanie11.h"
+#include "Zadanie12.h"
+#include "Zadanie13.h"
+#include "Zadanie14.h"
+#include "Zadanie15.h"
+#include "Zadanie16.h"
+#include "Zadanie17.h"
+#include "Zadanie18.h"
+#include "Zadanie19.h"
+#include "Zadanie20.h"
+
 #include <clocale>
 

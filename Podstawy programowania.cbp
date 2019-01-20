@@ -40,12 +40,16 @@
 		<Unit filename="include/Zadanie2.h" />
 		<Unit filename="include/Zadanie3.h" />
 		<Unit filename="include/Zadanie4.h" />
+		<Unit filename="include/Zadanie5.h" />
+		<Unit filename="include/Zadanie6.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Zadanie.cpp" />
 		<Unit filename="src/Zadanie1.cpp" />
 		<Unit filename="src/Zadanie2.cpp" />
 		<Unit filename="src/Zadanie3.cpp" />
 		<Unit filename="src/Zadanie4.cpp" />
+		<Unit filename="src/Zadanie5.cpp" />
+		<Unit filename="src/Zadanie6.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

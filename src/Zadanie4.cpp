@@ -38,6 +38,7 @@ void Zadanie4::fkwadr(double a, double b, double c)
 void Zadanie4::run()
 {
     cout<<"Zadanie4"<<endl<<endl;
+    pokazTresc();
     double a,b,c;
     cout<<"Wprwoad a"<<endl;
     cin>>a;

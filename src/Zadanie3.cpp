@@ -35,6 +35,7 @@ void Zadanie3::wprowadzTab(char tab[])
 void Zadanie3::run()
 {
     cout<<"Zadanie3"<<endl<<endl;
+    pokazTresc();
     char tab[21]={NULL};// sprawiamy ṡe kaṡda wartoæ tablicy to NULL czyli znak \0 (czyscimy tabilice z niepoṡṗdanych wartoci)
     cout<<"Wprowad do 20 znaków"<<endl;
     cin>>tab;

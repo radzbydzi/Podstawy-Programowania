@@ -10,9 +10,11 @@ class Zadanie
     public:
         Zadanie();
         virtual ~Zadanie();
-        void run();
+        virtual void run()=0;
+        void pokazTresc();
+        void setTresc(string tresc);
     protected:
-
+        string tresc="Domyslna tresc";
     private:
 };
 

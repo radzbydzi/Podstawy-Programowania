@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1548009911 source:/home/r/Podstawy-Programowania/main.cpp
+	<iostream>
+	<vector>
+	"headers.h"
+
+1548009642 /home/r/Podstawy-Programowania/headers.h
+	"Zadanie1.h"
+	"Zadanie2.h"
+	"Zadanie3.h"
+	"Zadanie4.h"
+	"Zadanie5.h"
+	"Zadanie6.h"
+	"Zadanie7.h"
+	"Zadanie8.h"
+	"Zadanie9.h"
+	"Zadanie10.h"
+	"Zadanie11.h"
+	"Zadanie12.h"
+	"Zadanie13.h"
+	"Zadanie14.h"
+	"Zadanie15.h"
+	"Zadanie16.h"
+	"Zadanie17.h"
+	"Zadanie18.h"
+	"Zadanie19.h"
+	"Zadanie20.h"
+	<clocale>
+
+1547731829 /home/r/Podstawy-Programowania/include/Zadanie1.h
+	"Zadanie.h"
+
+1548009969 /home/r/Podstawy-Programowania/include/Zadanie.h
+	<iostream>
+	<stdio.h>
+
+1547731829 /home/r/Podstawy-Programowania/include/Zadanie2.h
+	"Zadanie.h"
+
+1547664257 /home/r/Podstawy-Programowania/include/Zadanie3.h
+	"Zadanie.h"
+
+1547731829 /home/r/Podstawy-Programowania/include/Zadanie4.h
+	"Zadanie.h"
+
+1548007541 /home/r/Podstawy-Programowania/include/Zadanie5.h
+	"Zadanie.h"
+
+1548009958 source:/home/r/Podstawy-Programowania/src/Zadanie.cpp
+	"Zadanie.h"
+
+1548006866 source:/home/r/Podstawy-Programowania/src/Zadanie1.cpp
+	"Zadanie1.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1548006911 source:/home/r/Podstawy-Programowania/src/Zadanie2.cpp
+	"Zadanie2.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1548006901 source:/home/r/Podstawy-Programowania/src/Zadanie3.cpp
+	"Zadanie3.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1548006920 source:/home/r/Podstawy-Programowania/src/Zadanie4.cpp
+	"Zadanie4.h"
+	<math.h>
+	<ctime>
+	<cstdlib>
+
+1548007202 source:/home/r/Podstawy-Programowania/src/Zadanie5.cpp
+	"Zadanie5.h"
+
+1548007261 source:/home/r/Podstawy-Programowania/src/Zadanie6.cpp
+	"Zadanie6.h"
+
+1548007400 /home/r/Podstawy-Programowania/include/Zadanie6.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie7.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie8.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie9.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie10.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie11.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie12.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie13.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie14.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie15.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie16.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie17.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie18.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie19.h
+	"Zadanie.h"
+
+1548009456 /home/r/Podstawy-Programowania/include/Zadanie20.h
+	"Zadanie.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie10.cpp
+	"Zadanie10.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie11.cpp
+	"Zadanie11.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie12.cpp
+	"Zadanie12.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie13.cpp
+	"Zadanie13.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie14.cpp
+	"Zadanie14.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie15.cpp
+	"Zadanie15.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie16.cpp
+	"Zadanie16.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie17.cpp
+	"Zadanie17.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie18.cpp
+	"Zadanie18.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie19.cpp
+	"Zadanie19.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie20.cpp
+	"Zadanie20.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie7.cpp
+	"Zadanie7.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie8.cpp
+	"Zadanie8.h"
+
+1548009456 source:/home/r/Podstawy-Programowania/src/Zadanie9.cpp
+	"Zadanie9.h"
+

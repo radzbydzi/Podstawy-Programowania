@@ -10,8 +10,16 @@ Zadanie::~Zadanie()
 {
     //dtor
 }
-
-void Zadanie::run()
+void Zadanie::pokazTresc()
 {
-    cout<<"Default run"<<endl;
+    cout<<tresc<<endl<<endl;
+    cout<<"-----------"<<endl<<endl;
 }
+void Zadanie::setTresc(string tresc)
+{
+    this->tresc = tresc;
+}
+/*void Zadanie::run()
+{
+    cout<<"Default run"<<endl<<endl;
+}*/
