@@ -10,5 +10,7 @@ class Zadanie7 : public Zadanie
 		void run();
 	protected:
 	private:
+        int wspak(char dane[], char wynik[]);
+        void pokazTab(char tab[]);
 };
 #endif // ZADANIE7_H

@@ -47,14 +47,15 @@
 1548007541 /home/r/Podstawy-Programowania/include/Zadanie5.h
 	"Zadanie.h"
 
-1548009958 source:/home/r/Podstawy-Programowania/src/Zadanie.cpp
+1548012126 source:/home/r/Podstawy-Programowania/src/Zadanie.cpp
 	"Zadanie.h"
 
-1548006866 source:/home/r/Podstawy-Programowania/src/Zadanie1.cpp
+1548012105 source:/home/r/Podstawy-Programowania/src/Zadanie1.cpp
 	"Zadanie1.h"
 	<math.h>
 	<ctime>
 	<cstdlib>
+	<clocale>
 
 1548006911 source:/home/r/Podstawy-Programowania/src/Zadanie2.cpp
 	"Zadanie2.h"
@@ -83,7 +84,7 @@
 1548007400 /home/r/Podstawy-Programowania/include/Zadanie6.h
 	"Zadanie.h"
 
-1548009456 /home/r/Podstawy-Programowania/include/Zadanie7.h
+1548013886 /home/r/Podstawy-Programowania/include/Zadanie7.h
 	"Zadanie.h"
 
 1548009456 /home/r/Podstawy-Programowania/include/Zadanie8.h
