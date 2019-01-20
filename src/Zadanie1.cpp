@@ -2,7 +2,7 @@
 #include <math.h>
 #include <ctime>
 #include <cstdlib>
-
+#include <clocale>
 Zadanie1::Zadanie1()
 {
     //ctor

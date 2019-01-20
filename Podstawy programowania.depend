@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1548009911 source:/home/r/Podstawy-Programowania/main.cpp
+1548011909 source:/home/r/Podstawy-Programowania/main.cpp
 	<iostream>
 	<vector>
 	"headers.h"
@@ -30,9 +30,10 @@
 1547731829 /home/r/Podstawy-Programowania/include/Zadanie1.h
 	"Zadanie.h"
 
-1548009969 /home/r/Podstawy-Programowania/include/Zadanie.h
+1548012123 /home/r/Podstawy-Programowania/include/Zadanie.h
 	<iostream>
 	<stdio.h>
+	<clocale>
 
 1547731829 /home/r/Podstawy-Programowania/include/Zadanie2.h
 	"Zadanie.h"

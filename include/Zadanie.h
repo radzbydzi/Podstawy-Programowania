@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <stdio.h>
+#include <clocale>
 using namespace std;
 
 class Zadanie
