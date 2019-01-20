@@ -10,5 +10,8 @@ class Zadanie8 : public Zadanie
 		void run();
 	protected:
 	private:
+        int sumaPetla(int n);
+        int sumaReku(int n);
+        int sumaWzor(int n);
 };
 #endif // ZADANIE8_H

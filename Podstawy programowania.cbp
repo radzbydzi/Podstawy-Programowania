@@ -37,19 +37,47 @@
 		<Unit filename="headers.h" />
 		<Unit filename="include/Zadanie.h" />
 		<Unit filename="include/Zadanie1.h" />
+		<Unit filename="include/Zadanie10.h" />
+		<Unit filename="include/Zadanie11.h" />
+		<Unit filename="include/Zadanie12.h" />
+		<Unit filename="include/Zadanie13.h" />
+		<Unit filename="include/Zadanie14.h" />
+		<Unit filename="include/Zadanie15.h" />
+		<Unit filename="include/Zadanie16.h" />
+		<Unit filename="include/Zadanie17.h" />
+		<Unit filename="include/Zadanie18.h" />
+		<Unit filename="include/Zadanie19.h" />
 		<Unit filename="include/Zadanie2.h" />
+		<Unit filename="include/Zadanie20.h" />
 		<Unit filename="include/Zadanie3.h" />
 		<Unit filename="include/Zadanie4.h" />
 		<Unit filename="include/Zadanie5.h" />
 		<Unit filename="include/Zadanie6.h" />
+		<Unit filename="include/Zadanie7.h" />
+		<Unit filename="include/Zadanie8.h" />
+		<Unit filename="include/Zadanie9.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Zadanie.cpp" />
 		<Unit filename="src/Zadanie1.cpp" />
+		<Unit filename="src/Zadanie10.cpp" />
+		<Unit filename="src/Zadanie11.cpp" />
+		<Unit filename="src/Zadanie12.cpp" />
+		<Unit filename="src/Zadanie13.cpp" />
+		<Unit filename="src/Zadanie14.cpp" />
+		<Unit filename="src/Zadanie15.cpp" />
+		<Unit filename="src/Zadanie16.cpp" />
+		<Unit filename="src/Zadanie17.cpp" />
+		<Unit filename="src/Zadanie18.cpp" />
+		<Unit filename="src/Zadanie19.cpp" />
 		<Unit filename="src/Zadanie2.cpp" />
+		<Unit filename="src/Zadanie20.cpp" />
 		<Unit filename="src/Zadanie3.cpp" />
 		<Unit filename="src/Zadanie4.cpp" />
 		<Unit filename="src/Zadanie5.cpp" />
 		<Unit filename="src/Zadanie6.cpp" />
+		<Unit filename="src/Zadanie7.cpp" />
+		<Unit filename="src/Zadanie8.cpp" />
+		<Unit filename="src/Zadanie9.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
