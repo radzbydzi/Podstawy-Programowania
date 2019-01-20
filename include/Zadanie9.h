@@ -10,5 +10,6 @@ class Zadanie9 : public Zadanie
 		void run();
 	protected:
 	private:
+        void zyskPo(float kapital, float procent, int lata);
 };
 #endif // ZADANIE9_H
